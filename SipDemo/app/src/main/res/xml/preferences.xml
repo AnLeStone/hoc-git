@@ -19,19 +19,19 @@
     <EditTextPreference
         android:name="SIP Username"
         android:summary="Username for your SIP Account"
-        android:defaultValue="anb1304521"
+        android:defaultValue="antest11"
         android:title="Enter Username"
         android:key="namePref" />
     <EditTextPreference
         android:name="SIP Domain"
         android:summary="Domain for your SIP Account"
-        android:defaultValue="sip2sip.info"
+        android:defaultValue="192.168.11.200"
         android:title="Enter Domain"
         android:key="domainPref" />
     <EditTextPreference
         android:name="SIP Password"
         android:summary="Password for your SIP Account"
-        android:defaultValue="kh0jzolundi"
+        android:defaultValue="antest11"
         android:title="Enter Password"
         android:key="passPref"
         android:password="true" />

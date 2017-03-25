@@ -2,7 +2,7 @@
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
-    android:layout_height="match_parent" tools:context="com.example.sinch.MainActivity"
+    android:layout_height="match_parent" tools:context="com.example.sinch.LoginActivity"
     android:orientation="vertical">
 
 
@@ -19,7 +19,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:inputType="textPersonName"
+        android:inputType="numberDecimal"
         android:hint="Nhập số điện thoại" />
 
     <EditText
@@ -37,7 +37,7 @@
         android:text="Đăng nhập" />
 
     <Button
-        android:id="@+id/btnSignin"
+        android:id="@+id/btnSignup"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Đăng ký" />

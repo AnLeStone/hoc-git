@@ -126,7 +126,8 @@ public class WalkieTalkieActivity extends Activity implements View.OnTouchListen
         String password = prefs.getString("passPref", "");
 
         if (username.length() == 0 || domain.length() == 0 || password.length() == 0) {
-            showDialog(UPDATE_SETTINGS_DIALOG);
+            //showDialog(UPDATE_SETTINGS_DIALOG);
+
             return;
         }
 
