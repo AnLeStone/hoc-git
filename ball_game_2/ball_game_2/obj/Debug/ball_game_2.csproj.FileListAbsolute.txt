@@ -1,0 +1,13 @@
+D:\name_AnLe\PrjCSharp\ball_game_2\ball_game_2\bin\Debug\ball_game_2.exe.config
+D:\name_AnLe\PrjCSharp\ball_game_2\ball_game_2\bin\Debug\ball_game_2.exe
+D:\name_AnLe\PrjCSharp\ball_game_2\ball_game_2\bin\Debug\ball_game_2.pdb
+D:\name_AnLe\PrjCSharp\ball_game_2\ball_game_2\obj\Debug\MainWindow.g.cs
+D:\name_AnLe\PrjCSharp\ball_game_2\ball_game_2\obj\Debug\App.g.cs
+D:\name_AnLe\PrjCSharp\ball_game_2\ball_game_2\obj\Debug\ball_game_2_MarkupCompile.cache
+D:\name_AnLe\PrjCSharp\ball_game_2\ball_game_2\obj\Debug\ball_game_2_MarkupCompile.lref
+D:\name_AnLe\PrjCSharp\ball_game_2\ball_game_2\obj\Debug\MainWindow.baml
+D:\name_AnLe\PrjCSharp\ball_game_2\ball_game_2\obj\Debug\ball_game_2.g.resources
+D:\name_AnLe\PrjCSharp\ball_game_2\ball_game_2\obj\Debug\ball_game_2.Properties.Resources.resources
+D:\name_AnLe\PrjCSharp\ball_game_2\ball_game_2\obj\Debug\ball_game_2.csproj.GenerateResource.Cache
+D:\name_AnLe\PrjCSharp\ball_game_2\ball_game_2\obj\Debug\ball_game_2.exe
+D:\name_AnLe\PrjCSharp\ball_game_2\ball_game_2\obj\Debug\ball_game_2.pdb
